@@ -1,8 +1,9 @@
 # Table of contents
 
-* [👋 Welcome to Physics Prep!](README.md)
+* [Welcome to Physics Prep_!](README.md)
 
-## Classical Physics
+## JEST-2019
+
 
 * [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
   * [Vision](about-us/vision-mission-and-focus/vision.md)
