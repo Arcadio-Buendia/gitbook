@@ -1,4 +1,7 @@
-![alt](Pictures/PhysicsPrep_.png)
+---
+title: Physics Prep_
+cover: Pictures/PhysicsPrep_.png
+---
 
 # 👋 Welcome to Physics Prep!
 
