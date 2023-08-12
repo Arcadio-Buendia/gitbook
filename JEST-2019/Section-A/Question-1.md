@@ -2,7 +2,7 @@
 Q. Let $$\vec r$$ be the position vector of a point on a closed contour C. What is the value of the line integral $$\oint\vec r\cdot \vec dr$$ ? 
 
 ### Understanding the Question:
-  ![](Jest%202019,%20Section%20A,%20Question%201,fig1.excalidraw.md)
+  ![](JEST-2019/Section-A/Question-1,fig1.excalidraw.md)
 
 $$\vec r$$ is the position vector for the closed contour C. 
 

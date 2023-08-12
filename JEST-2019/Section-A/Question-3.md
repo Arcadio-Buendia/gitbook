@@ -1,4 +1,4 @@
-### Consider the function $$f(x,y)=|x|-i|y|$$. In which domain of the complex plane is it analytic?
+Q. Consider the function $$f(x,y)=|x|-i|y|$$. In which domain of the complex plane is it analytic?
 
 #### Understanding the Question:
 ##### Complex Plane
