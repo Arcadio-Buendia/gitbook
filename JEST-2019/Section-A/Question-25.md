@@ -1,4 +1,4 @@
-Q. A bullet with initial speed $v_o$ is fired at a log of wood. The resistive force by wood on the bullet is given by $\eta v^\alpha$, where $\alpha<1$. What is the time taken to stop the bullet inside the wood log?
+Q. A bullet with initial speed $$v_o$$ is fired at a log of wood. The resistive force by wood on the bullet is given by $$\eta v^\alpha$$, where $$\alpha<1$$. What is the time taken to stop the bullet inside the wood log?
 #### Understanding the question
  
 ``` python
@@ -31,9 +31,9 @@ print('time:',time)
 
 #### Designing an Answer
  - We are given the force, we only need to apply newton's laws of motion to find out everythin.
- $$F=\eta v^\alpha=am=\frac{dv}{dt}m$$
- $$\implies dt=\frac m\eta\frac{dv}{v^\alpha}$$
+ $$$$F=\eta v^\alpha=am=\frac{dv}{dt}m$$$$
+ $$$$\implies dt=\frac m\eta\frac{dv}{v^\alpha}$$$$
  
 #### Solution
-Integrating hte above, $$\int_0^t dt=\frac{m}{n}\int_{v_o}^0\frac{dv}{v^\alpha}$$
-$$\implies t=\frac{m}{n}\frac{v_o^{1-\alpha}}{1-\alpha}$$
+Integrating hte above, $$$$\int_0^t dt=\frac{m}{n}\int_{v_o}^0\frac{dv}{v^\alpha}$$$$
+$$$$\implies t=\frac{m}{n}\frac{v_o^{1-\alpha}}{1-\alpha}$$$$

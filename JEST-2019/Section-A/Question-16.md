@@ -1,4 +1,4 @@
-Q. Which one of the following vectors lie along the line of intersection of the two planes $x+3y-z=5$ and $2x-2y+4z=3$?
+Q. Which one of the following vectors lie along the line of intersection of the two planes $$x+3y-z=5$$ and $$2x-2y+4z=3$$?
 
 #### Understanding the question
  - Any two intersecting planes have a line of intersection.
@@ -13,15 +13,15 @@ Q. Which one of the following vectors lie along the line of intersection of the 
 	
  #### Solution
  - Finding gradients
- $$\nabla (x+3y-z=5)=\hat x+3\hat y-\hat z$$ 
- $$\nabla (2x-2y+4z)=2\hat x-2\hat y+4\hat z$$
- - Let a vector on the line of intersection be: $a\hat x+b\hat y+c \hat z$
- $$\implies (\hat x+3\hat y-\hat z).(a\hat x+b\hat y+c \hat z)=0$$ and
- $$\implies (2\hat x-2\hat y+4\hat z)\cdot (a\hat x+b\hat y+c \hat z)=0$$
+ $$$$\nabla (x+3y-z=5)=\hat x+3\hat y-\hat z$$$$ 
+ $$$$\nabla (2x-2y+4z)=2\hat x-2\hat y+4\hat z$$$$
+ - Let a vector on the line of intersection be: $$a\hat x+b\hat y+c \hat z$$
+ $$$$\implies (\hat x+3\hat y-\hat z).(a\hat x+b\hat y+c \hat z)=0$$$$ and
+ $$$$\implies (2\hat x-2\hat y+4\hat z)\cdot (a\hat x+b\hat y+c \hat z)=0$$$$
  - We obtain:
-   - $c-a=3b$
-   - $3c=4b$
+   - $$c-a=3b$$
+   - $$3c=4b$$
   
   
-The only equation satisfying both conditions is (b) $\boxed {10\hat i-6\hat j-8\hat k}$
+The only equation satisfying both conditions is (b) $$\boxed {10\hat i-6\hat j-8\hat k}$$
  
