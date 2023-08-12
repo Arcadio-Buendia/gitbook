@@ -16,21 +16,4 @@
   * [Question 9](JEST-2019/Section-A/Question-9.md)
   * [Question 10](JEST-2019/Section-A/Question-10.md)
   * [Question 11](JEST-2019/Section-A/Question-11.md)
-* [🚀 Vision, Mission & Focus](jest-2019/vision-mission-and-focus/README.md)
-  * [Vision](jest-2019/vision-mission-and-focus/vision.md)
-  * [Mission](jest-2019/vision-mission-and-focus/mission.md)
-  * [Focus](jest-2019/vision-mission-and-focus/focus.md)
-* [💖 Values](jest-2019/values.md)
 
-## Team
-
-* [👋 Meet the Team!](team/meet-the-team.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
