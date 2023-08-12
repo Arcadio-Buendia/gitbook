@@ -1,14 +1,15 @@
 # Table of contents
 
-* [Welcome to Physics Prep_!](README.md)
+* [👋 Welcome to Physics Prep\_!](README.md)
 
 ## JEST-2019
+
 * [Q10](JEST-2019/Section-A/Q10.md)
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 Vision, Mission & Focus](jest-2019/vision-mission-and-focus/README.md)
+  * [Vision](jest-2019/vision-mission-and-focus/vision.md)
+  * [Mission](jest-2019/vision-mission-and-focus/mission.md)
+  * [Focus](jest-2019/vision-mission-and-focus/focus.md)
+* [💖 Values](jest-2019/values.md)
 
 ## Team
 
