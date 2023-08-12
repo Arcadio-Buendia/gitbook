@@ -1,6 +1,4 @@
----
-  ![alt](Pictures/PhysicsPrep_.png)
----
+![alt](Pictures/PhysicsPrep_.png)
 
 # 👋 Welcome to Physics Prep!
 
