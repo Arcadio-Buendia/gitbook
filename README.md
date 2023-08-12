@@ -1,7 +1,5 @@
 ---
-cover: >-
-  ![alt](pictures/PhysicsPrep_.png)
-coverY: 0
+  ![alt](Pictures/PhysicsPrep_.png)
 ---
 
 # 👋 Welcome to Physics Prep!
