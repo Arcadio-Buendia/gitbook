@@ -1,2 +1,0 @@
-# 🤝 How we Work Together
-
