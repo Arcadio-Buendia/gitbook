@@ -4,6 +4,17 @@
 
 ## JEST-2019
 
+*[Section A]
+  * [Question 10]( Jest 2019, Section A, Question 10.md) 
+  * [Question 11]( Jest 2019, Section A, Question 11.md)
+  * [Question 12]( Jest 2019, Section A, Question 12.md)
+  * [Question 13]( Jest 2019, Section A, Question 13.md)
+  * [Question 14]( Jest 2019, Section A, Question 14.md)
+  * [Question 15]( Jest 2019, Section A, Question 15.md)
+  * [Question 16]( Jest 2019, Section A, Question 16.md)
+  * [Question 17]( Jest 2019, Section A, Question 17.md)
+  * [Question 18]( Jest 2019, Section A, Question 18.md)
+  * [Question 19]( Jest 2019, Section A, Question 19.md)
 
 * [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
   * [Vision](about-us/vision-mission-and-focus/vision.md)
