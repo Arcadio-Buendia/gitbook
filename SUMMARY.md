@@ -2,7 +2,7 @@
 
 * [👋 Welcome to Physics Prep!](README.md)
 
-## About us
+## Classical Physics
 
 * [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
   * [Vision](about-us/vision-mission-and-focus/vision.md)
